@@ -4,5 +4,5 @@ account_id = "56a141e7cc93cba85bc987f5d37ea897"
 zone_id = "c3feaaf373d8f634f5bea813418186f9"
 compatibility_date = "2025-07-30"
 routes = [
-  { pattern = "cdn.hethonglab.com", custom_domain = true }
+  { pattern = "cdn.hethonglab.com/*", custom_domain = true }
 ]
